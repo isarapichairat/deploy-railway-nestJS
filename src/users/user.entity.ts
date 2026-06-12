@@ -45,6 +45,8 @@ export class User {
   @Column()
   apiKey: string;
 
+  
+
   /**
    * A user can create many playLists
    */
